@@ -1,0 +1,3 @@
+[submodule "arduino-youtube-api"]
+	path = lib/arduino-youtube-api
+	url = git@github.com:witnessmenow/arduino-youtube-api.git
